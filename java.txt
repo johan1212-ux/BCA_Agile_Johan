@@ -2,7 +2,7 @@ public class Geeks
 {
     // An example method
     public void printMessage() {
-        System.out.println("Hello, Geeks!");
+        System.out.println("Hello, johan you are doing your practicl");
     }
     
     public static void main(String[] args) {
